@@ -7,10 +7,10 @@ const CONFIG = {
 
   MAGZINE_HOME_HIDDEN_CATEGORY: '分享杂文', //不希望在首页展示的文章分类，用英文逗号隔开
 
-  MAGZINE_HOME_TITLE: '立即开创您的在线业务。完全免费。',
+  MAGZINE_HOME_TITLE: '研究员—Dr. Felix | 秋名山吃豆腐',
   MAGZINE_HOME_DESCRIPTION:
-    '借助NotionNext，获得助您开创、经营和扩展业务所需的全部工具和帮助。',
-  MAGZINE_HOME_TIPS: 'AI时代来临，这是属于超级个体的狂欢盛宴！',
+    '😄 热爱技术、享受生活。兴趣方向：哲学、料理&CS。喜欢参与一些开源项目的讨论。',
+  MAGZINE_HOME_TIPS: 'Welcome to my Blog，Thank you very much ！',
 
   // 首页底部推荐文章标签, 例如 [推荐] , 最多六篇文章; 若留空白''，则推荐最近更新文章
   MAGZINE_RECOMMEND_POST_TAG: '推荐',
