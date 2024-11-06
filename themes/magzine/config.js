@@ -10,7 +10,7 @@ const CONFIG = {
   MAGZINE_HOME_TITLE: '研究员—Dr. Felix | 秋名山吃豆腐',
   MAGZINE_HOME_DESCRIPTION:
     '😄 热爱技术、享受生活。兴趣方向：哲学、料理&CS。喜欢参与一些开源项目的讨论。',
-  MAGZINE_HOME_TIPS: 'Welcome to my Shop，Thank you very much ！',
+  MAGZINE_HOME_TIPS: 'Welcome to my blog，Thank you very much ！',
 
   // 首页底部推荐文章标签, 例如 [推荐] , 最多六篇文章; 若留空白''，则推荐最近更新文章
   MAGZINE_RECOMMEND_POST_TAG: '推荐',
