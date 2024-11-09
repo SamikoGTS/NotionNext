@@ -16,6 +16,6 @@ const CONFIG = {
   COMMERCE_HOME_POSTS_COUNT: 9, // 首页展示商品数
   COMMERCE_CONTACT_WHATSAPP_SHOW: true, // 是否展示whatsapp联系按钮 请配置 CONTACT_WHATSAPP
   COMMERCE_CONTACT_TELEGRAM_SHOW: true, // 联系栏展示telegram按钮 请配置 CONTACT_TELEGRAM
-  CONTACT_BILIBILI: process.env.NEXT_PUBLIC_CONTACT_BILIBILI || 'https://www.bilibili.com/',
+  CONTACT_BILIBILI: 'https://www.bilibili.com/',
 }
 export default CONFIG
